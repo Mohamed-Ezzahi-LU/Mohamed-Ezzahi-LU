@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since August 2024<br>📚 I'm currently learning <br>🎯 Goal: Getting real world experience before finishing my bachelor<br>🎲 Fun fact: I finished High School with Cum Laude<br><br>Currently looking for a sidegig in IT, willing to work remote if needed.</p>
+<p align="left">✨ Creating bugs since August 2024<br>📚 I'm currently learning automation and n8n<br>🎯 Goal: Getting real world experience before finishing my bachelor<br>🎲 Fun fact: I finished High School with Cum Laude<br><br>Currently looking for a sidegig in IT, willing to work remote if needed.</p>
 
 ###
 
